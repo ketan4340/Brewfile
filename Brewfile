@@ -1,25 +1,6 @@
 
 # tap repositories and their packages
 
-tap caskroom/cask
-cask atom
-cask dropbox
-cask eclipse-ide
-cask emacs
-cask firefox
-cask gimp
-cask google-chrome
-cask intellij-idea
-cask java
-cask mactex
-cask protege
-cask scenebuilder
-cask skype
-cask slack
-cask texworks
-
-tap caskroom/versions
-
 tap homebrew/core
 brew autoconf
 brew automake
@@ -30,25 +11,34 @@ brew fontconfig
 brew freetype
 brew gd
 brew gdbm
+brew gettext
 brew ghostscript
 brew git
 brew gnuplot --with-x11
+brew gradle
+brew gradle@2.14
 brew graphviz
+brew groovy
 brew jpeg
 brew juman
+brew libidn2
 brew libpng
 brew libtiff
 brew libtool
+brew libunistring
 brew little-cms2
 brew lua
 brew mas
 brew maven
+brew maven@3.3
 brew mecab
 brew mecab-ipadic
 brew mecab-jumandic
+brew mp4v2
 brew nkf
 brew openssl
 brew openssl@1.1
+brew pandoc
 brew pcre
 brew pkg-config
 brew pyenv
@@ -63,7 +53,35 @@ brew xz
 brew zlib
 brew zsh
 
+tap homebrew/cask
+cask atom
+cask dropbox
+cask eclipse-ide
+cask emacs
+cask firefox
+cask flash-player
+cask gimp
+cask github
+cask google-chrome
+cask intellij-idea
+cask java
+cask mactex
+cask mp3tag
+cask protege
+cask scenebuilder
+cask skype
+cask slack
+cask texshop
+cask texworks
+cask xld
+
+tap homebrew/cask-versions
+
 tap homebrew/dupes
+
+tap caskroom/cask
+
+tap buo/cask-upgrade
 
 tap railwaycat/emacsmacport
 
@@ -73,16 +91,14 @@ brew brew-file
 tap uetchy/nlp
 brew knp
 
-# Cask applications
+# Other Cask applications
 cask java7
 
 # App Store applications
-appstore 503039729 Fotor Photo Editor (3.3.0)
-appstore 682658836 GarageBand (10.2.0)
-appstore 408981434 iMovie (10.1.6)
-appstore 409183694 Keynote (7.1.1)
-appstore 539883307 LINE (5.1.1)
-appstore 409203825 Numbers (4.1.1)
-appstore 823766827 OneDrive (17.3.6798)
-appstore 409201541 Pages (6.1.1)
-appstore 497799835 Xcode (8.3.3)
+appstore 503039729 Fotor Photo Editor (3.5.1)
+appstore 409183694 Keynote (8.1)
+appstore 539883307 LINE (5.8.0)
+appstore 409203825 Numbers (5.1)
+appstore 823766827 OneDrive (18.065.0329)
+appstore 409201541 Pages (7.1)
+appstore 497799835 Xcode (9.4.1)
