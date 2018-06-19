@@ -54,7 +54,6 @@ brew zlib
 brew zsh
 
 tap homebrew/cask
-cask atom
 cask dropbox
 cask eclipse-ide
 cask emacs
@@ -63,7 +62,6 @@ cask flash-player
 cask gimp
 cask github
 cask google-chrome
-cask intellij-idea
 cask java
 cask mactex
 cask mp3tag
