@@ -98,6 +98,7 @@ cask java7
 appstore 503039729 Fotor Photo Editor (3.5.1)
 appstore 409183694 Keynote (8.1)
 appstore 539883307 LINE (5.8.0)
+appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (5.1)
 appstore 823766827 OneDrive (18.065.0329)
 appstore 409201541 Pages (7.1)
