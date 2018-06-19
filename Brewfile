@@ -69,8 +69,6 @@ cask skype
 cask texshop
 cask xld
 
-tap buo/cask-upgrade
-
 tap railwaycat/emacsmacport
 
 tap rcmdnk/file
