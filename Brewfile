@@ -29,8 +29,6 @@ brew libunistring
 brew little-cms2
 brew lua
 brew mas
-brew maven
-brew maven@3.3
 brew mecab
 brew mecab-ipadic
 brew mecab-jumandic
