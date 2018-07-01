@@ -65,7 +65,7 @@ cask mactex
 cask protege
 cask skype
 cask texshop
-cask xld
+cask vivaldi
 
 tap buo/cask-upgrade
 
@@ -87,6 +87,7 @@ cask mp3tag
 cask scenebuilder
 cask slack
 cask texworks
+cask xld
 
 # App Store applications
 appstore 503039729 Fotor Photo Editor (3.5.1)
