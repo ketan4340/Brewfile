@@ -16,7 +16,6 @@ brew ghostscript
 brew git
 brew gnuplot --with-x11
 brew gradle
-brew gradle@2.14
 brew graphviz
 brew groovy
 brew jpeg
@@ -29,6 +28,7 @@ brew libunistring
 brew little-cms2
 brew lua
 brew mas
+brew maven
 brew mecab
 brew mecab-ipadic
 brew mecab-jumandic
