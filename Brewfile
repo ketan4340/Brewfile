@@ -66,6 +66,7 @@ cask protege
 cask skype
 cask texshop
 cask vivaldi
+cask zotero
 
 tap buo/cask-upgrade
 
