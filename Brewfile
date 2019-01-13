@@ -56,16 +56,17 @@ tap homebrew/cask-versions
 tap homebrew/dupes
 
 tap homebrew/cask
+cask adobe-air
 cask dropbox
 cask emacs
 cask flash-player
 cask github
 cask java
 cask mactex
-cask protege
-cask skype
-cask texshop
-cask xld
+cask scenebuilder
+cask slack
+cask texworks
+cask zotero
 
 tap buo/cask-upgrade
 
@@ -78,16 +79,16 @@ tap uetchy/nlp
 brew knp
 
 # Other Cask applications
+cask discord
 cask eclipse-ide
 cask firefox
 cask gimp
 cask google-chrome
 cask java7
-cask mp3tag
-cask scenebuilder
-cask slack
-cask texworks
-cask zotero
+cask protege
+cask skype
+cask texshop
+cask xld
 
 # App Store applications
 appstore 503039729 Fotor Photo Editor (3.5.1)
