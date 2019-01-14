@@ -65,8 +65,8 @@ cask java
 cask mactex
 cask scenebuilder
 cask slack
-cask texworks
-cask zotero
+cask texshop
+cask xld
 
 tap buo/cask-upgrade
 
@@ -87,8 +87,9 @@ cask google-chrome
 cask java7
 cask protege
 cask skype
-cask texshop
-cask xld
+cask soundflower
+cask texworks
+cask zotero
 
 # App Store applications
 appstore 503039729 Fotor Photo Editor (3.5.1)
