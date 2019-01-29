@@ -56,12 +56,11 @@ tap homebrew/cask-versions
 tap homebrew/dupes
 
 tap homebrew/cask
-cask adobe-air
-cask dropbox
-cask emacs
-cask flash-player
-cask github
-cask java
+cask discord
+cask eclipse-ide
+cask firefox
+cask gimp
+cask google-chrome
 cask mactex
 cask scenebuilder
 cask slack
@@ -79,11 +78,11 @@ tap uetchy/nlp
 brew knp
 
 # Other Cask applications
-cask discord
-cask eclipse-ide
-cask firefox
-cask gimp
-cask google-chrome
+cask dropbox
+cask emacs
+cask flash-player
+cask github
+cask java
 cask java7
 cask protege
 cask skype
