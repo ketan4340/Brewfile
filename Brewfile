@@ -12,7 +12,6 @@ brew freetype
 brew gd
 brew gdbm
 brew gettext
-brew ghostscript
 brew git
 brew gnuplot --with-x11
 brew gradle
@@ -51,11 +50,15 @@ brew xz
 brew zlib
 brew zsh
 
+tap homebrew/cask-fonts
+cask font-noto-sans-cjk-jp
+
 tap homebrew/cask-versions
 
 tap homebrew/dupes
 
 tap homebrew/cask
+cask adobe-acrobat-reader
 cask discord
 cask eclipse-ide
 cask firefox
@@ -65,7 +68,6 @@ cask mactex
 cask scenebuilder
 cask slack
 cask texshop
-cask xld
 
 tap buo/cask-upgrade
 
@@ -78,16 +80,17 @@ tap uetchy/nlp
 brew knp
 
 # Other Cask applications
+cask atom
 cask dropbox
 cask emacs
 cask flash-player
+cask font-source-han-code-jp
 cask github
 cask java
 cask java7
 cask protege
 cask skype
 cask soundflower
-cask texworks
 cask zotero
 
 # App Store applications
