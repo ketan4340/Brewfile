@@ -88,6 +88,7 @@ brew zlib
 brew zsh
 
 tap homebrew/cask-fonts
+cask font-migu-1m
 cask font-noto-sans-cjk-jp
 cask font-source-han-code-jp
 
