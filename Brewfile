@@ -2,28 +2,51 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew aom
 brew autoconf
 brew automake
 brew cabocha
+brew cairo
 brew cocoapods
 brew crf++
+brew flac
 brew fontconfig
 brew freetype
+brew frei0r
+brew fribidi
 brew gd
 brew gdbm
 brew gettext
+brew giflib
 brew git
+brew glib
+brew gmp
 brew gnuplot --with-x11
-brew gradle
+brew gnutls
+brew graphite2
 brew graphviz
 brew groovy
+brew harfbuzz
+brew icu4c
 brew jpeg
 brew juman
+brew lame
+brew leptonica
+brew libass
+brew libbluray
+brew libffi
 brew libidn2
+brew libogg
 brew libpng
+brew libsamplerate
+brew libsndfile
+brew libsoxr
+brew libtasn1
 brew libtiff
 brew libtool
 brew libunistring
+brew libvorbis
+brew libvpx
 brew little-cms2
 brew lua
 brew mas
@@ -32,26 +55,41 @@ brew mecab
 brew mecab-ipadic
 brew mecab-jumandic
 brew mp4v2
+brew nettle
 brew nkf
-brew openssl
+brew opencore-amr
+brew openjpeg
 brew openssl@1.1
+brew opus
+brew p11-kit
 brew pandoc
 brew pcre
+brew pixman
 brew pkg-config
 brew pyenv
 brew rbenv
 brew readline
+brew rtmpdump
+brew rubberband
 brew ruby-build
+brew sdl2
+brew snappy
+brew speex
+brew tesseract
+brew theora
 brew tinycdb
-brew tree
 brew webp
 brew wget
+brew x264
+brew x265
+brew xvid
 brew xz
 brew zlib
 brew zsh
 
 tap homebrew/cask-fonts
 cask font-noto-sans-cjk-jp
+cask font-source-han-code-jp
 
 tap homebrew/cask-versions
 
@@ -59,15 +97,25 @@ tap homebrew/dupes
 
 tap homebrew/cask
 cask adobe-acrobat-reader
+cask atom
 cask discord
+cask dropbox
 cask eclipse-ide
+cask emacs
 cask firefox
-cask gimp
+cask flash-player
+cask github
 cask google-chrome
+cask java
 cask mactex
+cask onedrive
+cask protege
 cask scenebuilder
+cask skype
 cask slack
+cask soundflower
 cask texshop
+cask zotero
 
 tap buo/cask-upgrade
 
@@ -77,21 +125,12 @@ tap rcmdnk/file
 brew brew-file
 
 tap uetchy/nlp
-brew knp
+
+# Other Homebrew packages
+brew openssl
 
 # Other Cask applications
-cask atom
-cask dropbox
-cask emacs
-cask flash-player
-cask font-source-han-code-jp
-cask github
-cask java
 cask java7
-cask protege
-cask skype
-cask soundflower
-cask zotero
 
 # App Store applications
 appstore 503039729 Fotor Photo Editor (3.5.1)
