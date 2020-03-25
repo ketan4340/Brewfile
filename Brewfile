@@ -89,6 +89,7 @@ brew zsh
 
 tap homebrew/cask-fonts
 cask font-migu-1m
+cask font-mplus-nerd-font-mono
 cask font-noto-sans-cjk-jp
 cask font-source-han-code-jp
 
@@ -128,6 +129,7 @@ brew brew-file
 tap uetchy/nlp
 
 # Other Homebrew packages
+brew java
 brew openssl
 
 # Other Cask applications
